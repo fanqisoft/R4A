@@ -228,7 +228,42 @@ jobs:
         if: github.event == 'release'
         uses: svenstaro/upload-release-action@v2
         with:
-          repo_token: ${{ secrets.YOURTOKEN }}
+          repo_token: b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcn
+                      NhAAAAAwEAAQAAAYEAxaP4zvZ7WqumoVyZjbLS07hyeeWZ/GbOGgrPEiYR6RGDRA0KMr8R
+                      ojUQwOTxlvD7hslyjgDvRwVarUhLK73A5Lwb/qktLNOL47v7xUNasfGSk20/KcWLzC5C0p
+                      e4RHd1fDDQRr00XfS87s7iTTRTEQNgNIR5b97a2bdSnE5mvgoeMqG4x2slWHbi0WckcjDV
+                      LlhQdLtHPLoIwEXMHOVnYyq0wLoHm1USO2fo5fXH8cPqMmy4SkrTS2PtcOCr6htWjw7Meg
+                      YPliXvMhajg3kbJh5nXxsiCCRvv1X6WFRkLR23UP3s+D/4xFAcLECtM5nPPDPvBBK8mA/S
+                      RlOpH3joFOe84l7M5r7nJMD+gFbHdc6KQoNfHiTYrYL40Vfu4SjL7cjMfDCM+ouUf/DEy9
+                      BlCLkqhFIXp4uIzdsXuiOKVBZEfatZX0yign3UyQL3n0jsDSZJXjGChG+iaCK04YyKGgre
+                      +JmdLI44P2Jp+j/HSoxRbdEUUc6Xbl+VA2TVH5XPAAAFiHeX+Xd3l/l3AAAAB3NzaC1yc2
+                      EAAAGBAMWj+M72e1qrpqFcmY2y0tO4cnnlmfxmzhoKzxImEekRg0QNCjK/EaI1EMDk8Zbw
+                      +4bJco4A70cFWq1ISyu9wOS8G/6pLSzTi+O7+8VDWrHxkpNtPynFi8wuQtKXuER3dXww0E
+                      a9NF30vO7O4k00UxEDYDSEeW/e2tm3UpxOZr4KHjKhuMdrJVh24tFnJHIw1S5YUHS7Rzy6
+                      CMBFzBzlZ2MqtMC6B5tVEjtn6OX1x/HD6jJsuEpK00tj7XDgq+obVo8OzHoGD5Yl7zIWo4
+                      N5GyYeZ18bIggkb79V+lhUZC0dt1D97Pg/+MRQHCxArTOZzzwz7wQSvJgP0kZTqR946BTn
+                      vOJezOa+5yTA/oBWx3XOikKDXx4k2K2C+NFX7uEoy+3IzHwwjPqLlH/wxMvQZQi5KoRSF6
+                      eLiM3bF7ojilQWRH2rWV9MooJ91MkC959I7A0mSV4xgoRvomgitOGMihoK3viZnSyOOD9i
+                      afo/x0qMUW3RFFHOl25flQNk1R+VzwAAAAMBAAEAAAGAWB53vK8g6JhHvwIuZIMqhMNkJv
+                      073tFnay0OjiTzL1tjj1/RADc4gX3vblGldYsUWlBPBwlbpeq5NzFYcrQz4MgOI0kCn03i
+                      vTL/WkBhm5z9oUXAN7ugTPUDTinfOoeYljqdYizRwGJyKneLZqjBsIA00LWP/1T5dsDJ0G
+                      8UV/7i3+hDHoajLAI1tu+pzFABfJxbovAtHuJDLJbyHqAZrJlJ5fQLmDIh4uK9cGpZL24O
+                      aVUYBee+tYpkP0Os4sA02p3ZF8dM4DAgOtWMeP2oqFYhAze3PHVTppRLYcagMVKVMfHLHL
+                      UZt4qGgkXYA1g26e9X0Gqrmv2Oo1u8LKo+TrLG+vfUNSmEEGYqKADBx0+lLuiIPY001tlm
+                      SpFeQk2M2nEvKcgouvLL49R4sxhC2nUHN8X5IszWzRZx/SUo7HuCbGqrJI+nUPjg11HoHR
+                      eqUb16bEMXLT9h7QWKYALhgy5W5qa+KiGcE78pfkOUZ7MigiaSjg+L+wUGdawy7llBAAAA
+                      wH5qP31W/L8pVNBK0erqId1XSMiKh7GxkmZJPow/n3EKQhg82fvS+jrPbGSOLZRmoZ6bIl
+                      iz2P7BZKlT5JBJZo/uI6gt8t1oUrPNDaXCLfI83iVpR2pk6TZGbamtUZyIao8cF4CugnPV
+                      mI1j70wmtiYJ/Gsjqi3kkzP7xEkQIyq6Kd3MwNo+QYd3QlgOAtfebuP1CwZFoNExTMiyz6
+                      lNnk1+Sj0ttp7bjwy/kI/9qwUyH87BHfdaLE2URc2LwIDGRwAAAMEA8PKJiOCAzmeBes0w
+                      XuH3ybIfyS3TYm7DaSWAk7yQJJn0jb8N1UChsFnM7wG/548Drs1K/z4+qfFWCXXJ9slsii
+                      +4XB1Kon9Abol3R7L65AckaZ/9kIB55Vtwi4NNO7CaOMCILZoLiK/6imC0sTInRWNV9NGf
+                      yZMT29S5TDynBzgbXFU0KmQ2yXcdBWai5Tpn+ly04HvHJ01Y6VUOH4kyt11cYwEihKBqi0
+                      f4Y0V5JyE2lA7EjTIUTxBWpH2fmNYHAAAAwQDR/NRB2ckrOfTtPWaKKmpp7Px5OBsPbxe2
+                      vMbQCPg8E2vQC7KJx/LYWW6zw2AFtLTBLUrnICccQzKZ7I84DH/qB8OkTKkEYen6/V30c+
+                      mn4Sa1sEI0i9prF3jRhVqCSVjaF21RbrVIi2UN2GzV4zEWkSVdumyBgYB1SmX3q1RE8aet
+                      MILsIYtcyZWYD7PPrlvmbEFQsxLL/gX2B4PgAAioT/4/aCVHqecrQt/KzJV1z9+dOkw5FL
+                      Jo7eCIcVBrD/kAAAAMZmFud2FuZ0BHNTEwAQIDBAUGBw==
           file: ./artifact/firmware/*
           tag: ${{ github.ref }}
           file_glob: true
